@@ -6,12 +6,19 @@
   </head>
 
   <body>
-  
+<h1>League Mini revieq quiz from past info pages.</h1>
+<p>How many playable maps are there</p>
+<input type = "radio" name ="number" value ="3">3<br>
+<input type ="radio" name ="number" value = "2">2<br>
+<input type ="radio" name = "number" value = "4">4<br>
+<input type ="radio" name ="1" value = "1">1<br>
+
 <nav>
   <a id= "champions" href="champions.html">Champions</a>
   <a href="MapsandGamemodes.html">Playable maps and champions</a>
-  <a href = "miniquiz">Miniquiz</a>
+  <a href = "index.html">home</a>
 </nav>
+<script src="final_project.js"></script>
     <svg id="canvas" width="100%" viewBox="0 0 200 100">
     </svg>
     <script src="final_project.js"></script>
