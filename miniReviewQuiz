@@ -6,13 +6,23 @@
   </head>
 
   <body>
-<h1>League Mini revieq quiz from past info pages.</h1>
+<h1>League Mini review quiz from past info pages.</h1>
 <p>How many playable maps are there</p>
 <input type = "radio" name ="number" value ="3">3<br>
 <input type ="radio" name ="number" value = "2">2<br>
 <input type ="radio" name = "number" value = "4">4<br>
 <input type ="radio" name ="1" value = "1">1<br>
-
+<p>How many Champions are in the game and cuurrently playable</p>
+<input type ="radio" name ="numberz" value = "100">100<br>
+<input type = "radio" name = "numberz" value = "130">130<br>
+<input type ="radio" namee = "numberz" value = "134">134<br>
+<input type ="radio" name ="numberz" value= "50">50<br>
+<p>What type of game is League of Legends?</p>
+<input type = "radio" name ="type" value ="Moba">Moba<br>
+<input type = "radio" name ="type" value ="mmorg">Mmorph<br>
+<input type ="radio" name ="type" value ="Role playing">Role playing game<br>
+<input type = "radio" name = "type" value ="fps">FPS<br>
+<p>                   </p>
 <nav>
   <a id= "champions" href="champions.html">Champions</a>
   <a href="MapsandGamemodes.html">Playable maps and champions</a>
