@@ -19,10 +19,15 @@
 <input type ="radio" name ="numberz" value= "50">50<br>
 <p>What type of game is League of Legends?</p>
 <input type = "radio" name ="type" value ="Moba">Moba<br>
-<input type = "radio" name ="type" value ="mmorg">Mmorph<br>
+<input type = "radio" name ="type" value ="mmorg">Mmo<br>
 <input type ="radio" name ="type" value ="Role playing">Role playing game<br>
 <input type = "radio" name = "type" value ="fps">FPS<br>
-<p>                   </p>
+<p>What does the game mode urf do?     </p>
+<input type= "radio" name = "mode" value =" whole team is the same champion"><br>
+<input type = "radio" name = "mode" value= "80% cdr"><br>
+<input type = "radio" name ="mode" value="the enemy chooses your champion"><br>
+<input type=" radio" name ="mode" value="there are 6 people on each team"><br>
+<p> </p>
 <nav>
   <a id= "champions" href="champions.html">Champions</a>
   <a href="MapsandGamemodes.html">Playable maps and champions</a>
@@ -34,3 +39,4 @@
     <script src="final_project.js"></script>
   </body>
 </html>
+humuaA=

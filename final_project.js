@@ -15,6 +15,11 @@ function quiz(){
 if(three=="Moba"){
   quizzScore = quizzScore +1
 }
+var four = document.querySelector("input[name='mode']checked").value
+if(four=="80% cdr"){
+  quizzScore = quizzScore+1
+}
+
 }
 // DO NOT EDIT CODE BELOW THIS LINE!
 function getX(shape) {
