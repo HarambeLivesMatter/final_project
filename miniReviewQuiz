@@ -12,7 +12,7 @@
 <input type ="radio" name ="number" value = "2">2<br>
 <input type ="radio" name = "number" value = "4">4<br>
 <input type ="radio" name ="1" value = "1">1<br>
-<p>How many Champions are in the game and cuurrently playable</p>
+<p>How many Champions are in the game and currently playable</p>
 <input type ="radio" name ="numberz" value = "100">100<br>
 <input type = "radio" name = "numberz" value = "130">130<br>
 <input type ="radio" namee = "numberz" value = "134">134<br>
@@ -27,7 +27,12 @@
 <input type = "radio" name = "mode" value= "80% cdr"><br>
 <input type = "radio" name ="mode" value="the enemy chooses your champion"><br>
 <input type=" radio" name ="mode" value="there are 6 people on each team"><br>
-<p> </p>
+<p>Who made League of legends?    </p>
+<input type= "radio" name ="company" value="Blizzard"><br>
+<input type = "radio" name ="company" value="Riot Games"><br>
+<input type= "radio" name="company" value ="Treyarch"><br>
+<input type ="radio" name ="company" value="SuperCell"><br>
+<p>  </p>
 <nav>
   <a id= "champions" href="champions.html">Champions</a>
   <a href="MapsandGamemodes.html">Playable maps and champions</a>
