@@ -13,15 +13,15 @@ function quiz(){
   }
   var three = docmunet.querySelector("input[name='type']checked").value
 if(three=="Moba"){
-  quizzScore = quizzScore +1
+  quizzScore = quizzScore + 1
 }
 var four = document.querySelector("input[name='mode']checked").value
 if(four=="80% cdr"){
-  quizzScore = quizzScore+1
+  quizzScore = quizzScore + 1
 }
 var five = document.querySelector("input[name='company']checked").value
 if(five=="Riot Games"){
-  quizzScore = quizzScore+1
+  quizzScore = quizzScore + 1
 }
 alert("Your score is")
 alert(quizzScore)
