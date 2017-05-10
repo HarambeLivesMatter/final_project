@@ -3,23 +3,23 @@ var namespace = "http://www.w3.org/2000/svg"
 // Write your code here!
 function quiz(){
   var quizzScore = 0
-  var one = document.querySelector("input[name='number']checked").value
+  var one = document.querySelector("input[name='number']:checked").value
   if(one == "4"){
     quizzScore = quizzScore + 1
   }
-  var two = document.querySelector("input[name='numberz']checked").value
+  var two = document.querySelector("input[name='numberz']:checked").value
   if(two =="134"){
     quizzScore = quizzScore + 1
   }
-  var three = docmunet.querySelector("input[name='type']checked").value
+  var three = docmunet.querySelector("input[name='type']:checked").value
 if(three=="Moba"){
   quizzScore = quizzScore + 1
 }
-var four = document.querySelector("input[name='mode']checked").value
+var four = document.querySelector("input[name='mode']:checked").value
 if(four=="80% cdr"){
   quizzScore = quizzScore + 1
 }
-var five = document.querySelector("input[name='company']checked").value
+var five = document.querySelector("input[name='company']:checked").value
 if(five=="Riot Games"){
   quizzScore = quizzScore + 1
 }
