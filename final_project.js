@@ -11,7 +11,7 @@ function quiz(){
   if(two =="134"){
     quizzScore = quizzScore + 1
   }
-  var three = docmunet.querySelector("input[name='type']:checked").value
+  var three = document.querySelector("input[name='type']:checked").value
 if(three=="Moba"){
   quizzScore = quizzScore + 1
 }
